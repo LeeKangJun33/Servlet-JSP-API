@@ -1,4 +1,4 @@
 # Servlet-JSP-API
-# MAC OS
-# IntellJ
-# Gradle
+### MAC OS
+### IntellJ
+### Gradle
